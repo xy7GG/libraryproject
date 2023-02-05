@@ -1,4 +1,4 @@
-# libraryproject
+# 图书管理系统
 项目技术 &#x20;
 
 Spring+SpringMVC+Mybatis框架 &#x20;
